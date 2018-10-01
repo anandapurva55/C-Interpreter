@@ -4,6 +4,12 @@ An interpreter for C language
 Reference -->  C, fourth edition by Herbert Schildt.
 
 
+
+
+
+
+
+
 Interprets the following features of C:-
 
 
@@ -32,7 +38,13 @@ Interprets the following features of C:-
 •/* . . . */-style comments.
 
 
+
+
+
+
+
 Constraints:-
+
 
 
 •The code blocks of if, while, do, and for must surrounded by beginning and ending curly braces.Single statement can't be used.
@@ -42,6 +54,10 @@ Constraints:-
 •No parameter type checking is performed.
 
 •All local variables must be declared at the start of a function, immediately after the opening brace.
+
+
+
+
 
 
 Steps to execute:
