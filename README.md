@@ -1,7 +1,8 @@
 # C-Interpreter
-An interpreter for C language
+Coded an interpreter for C language in C by taking reference from a brilliant book for C programming namely " C FOURTH EDITION" by Herbert Schildt.
 
-Reference -->  C, fourth edition by Herbert Schildt.
+Implemented several important features of C programming language such as pointers, structs, enum, type checking etc.
+
 
 
 
