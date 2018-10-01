@@ -1,7 +1,7 @@
 # C-Interpreter
 An interpreter for C language
 
-Reference - C, fourth edition by Herbert Schildt.
+Reference -->  C, fourth edition by Herbert Schildt.
 
 
 Interprets the following features of C:-
