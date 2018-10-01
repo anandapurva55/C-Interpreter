@@ -2,7 +2,6 @@
 //  PARSER.c
 //  Interpreter
 //
-//  Created by apurva anand on 10/1/18.
 //  Copyright © 2018 apurva anand. All rights reserved.
 //
 
