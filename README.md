@@ -63,6 +63,6 @@ Constraints:-
 
 Steps to execute:
 
-The entire code has been contained in three files namely LITTLE_C.c, PARSER.C and LCLIB.c.They need to be linked and then executed.This step depends on the compiler that we are using.A small google search is suffient to know the steps.
+The entire code has been contained in three files namely LITTLE_C.c, PARSER.C and LCLIB.c.They need to be linked and then executed.This step depends on the compiler that we are using.A small google search is sufficient to know the steps.
 
 Reference :- https://www.cs.utah.edu/~zachary/isp/tutorials/separate/separate.html
